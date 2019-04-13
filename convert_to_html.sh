@@ -1,6 +1,12 @@
 FILE=$1
 FILENAME="${FILE%%.*}"
 
+
+# For some reason, markdown doesn't overwrite automatically, so remove the file if it exists.
+if [ -f "${FILENAME}.html" ]; then
+	rm ${FILENAME}.html
+fi
+
 # Add needed header
 cat << EOH >> ${FILENAME}.html
 <html>
