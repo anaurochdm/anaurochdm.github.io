@@ -3,12 +3,12 @@
 ### Get on the Discord!
 
 * [Discord invite](https://discord.gg/5e8pjhy)
-* Read the [introductory write-up](onepager.html)
 
 ### Reading
 
 I want to keep the "required" reading brief, but I think players will enjoy the setting more with a bit of context:
 
+* Read the [introductory write-up](onepager.html>
 * Write-up of Evereksa (page 82, Sword Coast Adventurer's Guide)
 * Brief history of Netheril (page 48, Sword Coast Adventurer's Guide, in the "Ruined Kingdoms of the North" side panel)
 * Skim the Darkhold write-up (page 77, Sword Coast Adventurer's Guide) to get a sense of the Zhentarim. There's lots on the internet and elsewhere in SCAG if you want to get a better sense of their organization (they have a long history in canon D&D), but it isn't required.
