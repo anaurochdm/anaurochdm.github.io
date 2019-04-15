@@ -14,7 +14,7 @@ cat << EOH >> ${FILENAME}.html
 <head>
     <link rel="stylesheet" href="css/phb.standalone.css" />
 </head>
-<div class="phb">
+<div class="phb" id="p1">
 EOH
 
 # Convert the base markdown to HTML and add this to the file.
@@ -26,3 +26,6 @@ cat << EOH >> ${FILENAME}.html
 
 </html>
 EOH
+
+# Replace the page tag with appropriate HTML
+sed -i 's/<p>\\page<\/p>/<div class="phb" id="p2">/g' ${FILENAME}.html
