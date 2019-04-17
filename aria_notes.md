@@ -41,4 +41,9 @@ More details coming soon about what those things on the map actually __are__ :)
   * 10% Zhentarim
   * 5% Evereskan
   * 20% Other
+* What _type_ of people live in Aria?
+  * 60% permanent residents (spend most of their nights in town)
+  * 20% semi-permanent residents (live in Aria, but their work takes them outside the city for days at a time -- like truckers)
+  * 10% regular visitors (merchants from Evereska or traders from nearby tribes)
+  * 10% transient (long-term caravans and others passing through)
 <div class='pageNumber'>2</div>
