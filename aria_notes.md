@@ -35,4 +35,10 @@ More details coming soon about what those things on the map actually __are__ :)
   * Bedine culture is vehemently against slavery (they were former slaves themselves) and generally do not abide its practice. While Aria is far more diverse than a remote Bedine settlement, its leadership and significant portion of its population is nevertheless Bedine, and slavery is officially not tolerated.
   * The situation at the excavation sites (outside - sometimes far outside - the city) is somewhat different. While Evereskans nominally project an enlightened image and officially find slavery distasteful, they don't go far out of their way to halt its practice; House Immeril is hardly the only Evereskan trade family to benefit from slave labor and they tolerate so long as it remains mostly invisible to them.  Although Evereskan officials in Aria or back in Evereska generally don't seek out or endorse the use of slaves, nor do they question the boost in productivity when a Zhentarim foreman has a caravan of them delivered to a mining site.
 * What is the relationship with the tribes still living in the surrounding areas? Are caravans raided? Do they have deals with the Zhentarim?
+* What is the makeup of the population? Proposed below:
+  * 50% Bedine
+  * 15% D'Tarig
+  * 10% Zhentarim
+  * 5% Evereskan
+  * 20% Other
 <div class='pageNumber'>2</div>
