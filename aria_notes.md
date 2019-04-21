@@ -47,6 +47,8 @@ More details coming soon about what those things on the map actually __are__ :)
   * 10% regular visitors (merchants from Evereska or traders from nearby tribes)
   * 10% transient (long-term caravans and others passing through)
 
+<div class='pageNumber'>2</div>
+</div>
 \page
 
 * What languages are spoken in Aria?
@@ -57,4 +59,4 @@ More details coming soon about what those things on the map actually __are__ :)
   * Elvish is used by Evereskans to communicate with one another. At first, Elvish was relatively uncommon in Aria and used by elves to communicate without being understood by the locals. As time has gone by, enough of the local population has picked up some Elvish that the Evereskans no longer assume they won't be understood when speaking their native tongue. In general, Evereskan elves (especially those who have been assigned to Aria) are educated and generally fluent in (at least) Elvish, Common, Uloushinn, and Netherese. It's not uncommon for locals to speak Elvish, although elves will generally prefer to use Common unless speaking with each other.
   * Netherese is officially a dead language. The Bedine have no great love for their former oppressors, and Netherese is banned from official use by D'Jala's government. Older Bedine and D'Tarig nomads who have settle in town generally speak the language to some extent, though they are often reluctant to use it. The proximity of Evereska to historical Netheril means that many of the region's elves (particularly older ones) speak Netherese. Younger Evereskans generally learn the language in school, given its influence over other dialects in the region, although they rarely, if ever speak it.
   * The archaeological interest of the region means that Aria has a fairly high density of people with an above-average knowledge of history and arcana. As a result, there's at least _someone_ in town who speaks almost any language one can imagine. However, if it isn't one of the languages mentioned above, you'll have to go out of your way to find them.
-<div class='pageNumber'>2</div>
+<div class='pageNumber'>3</div>
