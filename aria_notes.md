@@ -20,7 +20,7 @@ More details coming soon about what those things on the map actually __are__ :)
 <div class='pageNumber'>1</div>
 </div>
 \page
-## Outstanding Questions
+## Outstanding Questions/FAQ
 
 * How is food and water distributed? (I'm still thinking this through)
   * Independent merchants?
@@ -43,7 +43,15 @@ More details coming soon about what those things on the map actually __are__ :)
   * 20% Other
 * What _type_ of people live in Aria?
   * 60% permanent residents (spend most of their nights in town)
-  * 20% semi-permanent residents (live in Aria, but their work takes them outside the city for days at a time -- like truckers)
+  * 20% semi-permanent residents (live in Aria, but their work takes them outside the city for days at a time -- like modern-day truckers).
   * 10% regular visitors (merchants from Evereska or traders from nearby tribes)
   * 10% transient (long-term caravans and others passing through)
+* What languages are spoken in Aria?
+  * Given the number of the different populations working together, the working language in Aria is Common, and this is the language you are most likely to hear while wandering around town or doing any type of business. For the same reason, the Zhentarim conduct all their official business in Common. Almost everyone in Aria has established basic competency in Common. Only very old Bedine and D'Tarig elders lack this proficiency.
+  * The Bedine speak a sub-dialect of Madani known as Uloushinn. Madani is a language commonly spoken throughout Faerun by nomadic desert dwellers (most of whom share the Zakharans as a common ancestor). Through generations of Netherese rulership, Uloushinn, essentially a hybrid of Madani and Netherese, emerged as the language of the Bedine. Uloushinn has enough in common with Madani that speakers of the two languages have no trouble understanding each other. Uloushinn is the second most common language in Aria, and everyone who lives in or around Aria has picked up several utility phrases in Uloushinn: "Hello", "Thank you", "Do you speak common", "Another ale please", "I swear he took out his dagger first", and so forth. Player characters get this "tourist Uloushinn" for free without paying for a language.
+  * D'Tarig, a roughly even mix of Dwarvish and Netherese, is also commonly heard around town. Unlike Uloushinn and Madani, D'Tarig differs too much from Dwarvish to be mutually intelligible with it. Almost all D'Tarig speak Uloushinn and the two tribes usually communicate in Uloushinn.
+  * Most dwarven D'Tarig also speak proper (if rough) Dwarvish, though they generally only use it with foreign dwarves who don't speak D'Tarig.
+  * Elvish is used by Evereskans to communicate with one another. At first, Elvish was relatively uncommon in Aria and used by elves to communicate without being understood by the locals. As time has gone by, enough of the local population has picked up some Elvish that the Evereskans no longer assume they won't be understood when speaking their native tongue. In general, Evereskan elves (especially those who have been assigned to Aria) are educated and generally fluent in (at least) Elvish, Common, Uloushinn, and Netherese. It's not uncommon for locals to speak Elvish, although elves will generally prefer to use Common unless speaking with each other.
+  * Netherese is officially a dead language. The Bedine have no great love for their former oppressors, and Netherese is banned from official use by D'Jala's government. Older Bedine and D'Tarig nomads who have settle in town generally speak the language to some extent, though they are often reluctant to use it. The proximity of Evereska to historical Netheril means that many of the region's elves (particularly older ones) speak Netherese. Younger Evereskans generally learn the language in school, given its influence over other dialects in the region, although they rarely, if ever speak it.
+  * The archaeological interest of the region means that Aria has a fairly high density of people with an above-average knowledge of history and arcana. As a result, there's at least _someone_ in town who speaks almost any language one can imagine. However, if it isn't one of the languages mentioned above, you'll have to go out of your way to find them.
 <div class='pageNumber'>2</div>
