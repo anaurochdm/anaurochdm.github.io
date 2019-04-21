@@ -46,6 +46,9 @@ More details coming soon about what those things on the map actually __are__ :)
   * 20% semi-permanent residents (live in Aria, but their work takes them outside the city for days at a time -- like modern-day truckers).
   * 10% regular visitors (merchants from Evereska or traders from nearby tribes)
   * 10% transient (long-term caravans and others passing through)
+
+\page
+
 * What languages are spoken in Aria?
   * Given the number of the different populations working together, the working language in Aria is Common, and this is the language you are most likely to hear while wandering around town or doing any type of business. For the same reason, the Zhentarim conduct all their official business in Common. Almost everyone in Aria has established basic competency in Common. Only very old Bedine and D'Tarig elders lack this proficiency.
   * The Bedine speak a sub-dialect of Madani known as Uloushinn. Madani is a language commonly spoken throughout Faerun by nomadic desert dwellers (most of whom share the Zakharans as a common ancestor). Through generations of Netherese rulership, Uloushinn, essentially a hybrid of Madani and Netherese, emerged as the language of the Bedine. Uloushinn has enough in common with Madani that speakers of the two languages have no trouble understanding each other. Uloushinn is the second most common language in Aria, and everyone who lives in or around Aria has picked up several utility phrases in Uloushinn: "Hello", "Thank you", "Do you speak common", "Another ale please", "I swear he took out his dagger first", and so forth. Player characters get this "tourist Uloushinn" for free without paying for a language.
