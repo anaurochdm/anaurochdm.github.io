@@ -19,6 +19,7 @@ Our story begins in earnest in 1372 DR, with the return of the Netherese capital
 Although there is some overlap with the above, here is a succinct timeline of recent events:
 
 * 1372 DR: Return of the Netherse Empire
+* 1485: The enslaved Bedine rebel against their Netherese masters _en masse_.
 * 1487 DR: Fall of the Second Netherese Empire and destruction of Myth Drannor
   * Refugees from Cormyr and Myth Drannor (victims of Netherse imperialism) tax Evereskan resources to the point that they consider seeking out their own sources of ore instead of importing them from other foreign powers.
 * 1490 DR: Evereskan scouts begin to build Aria
