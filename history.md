@@ -20,6 +20,7 @@ Although there is some overlap with the above, here is a succinct timeline of re
 
 * 1372 DR: Return of the Netherse Empire
 * 1487 DR: Fall of the Second Netherese Empire and destruction of Myth Drannor
+  * Refugees from Cormyr and Myth Drannor (victims of Netherse imperialism) tax Evereskan resources to the point that they consider seeking out their own sources of ore instead of importing them from other foreign powers.
 * 1490 DR: Evereskan scouts begin to build Aria
 * 1492 DR: Aria founded
 * 1496 DR: Evereska hands off official control of Aria to a local government composed of forward thinking Bedine
