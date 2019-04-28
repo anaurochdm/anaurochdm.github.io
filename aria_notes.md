@@ -15,9 +15,26 @@ The basic idea is that the walled portion was the original Evereskan outpost, an
 
 ## The Town Itself
 
-More details coming soon about what those things on the map actually __are__ :)
+Aria was originally constructed as a small, walled desert outpost, with additional interior walls surrounding the the mansion that hosted Evereskan visitors (see number 2, below). It only took a few years for the ever-growing forest of ramshackle structures to fill the space it had been alotted, and as time passed, an increasing number of local and foreign fortune-seekers made their homes outside the city walls, giving rise to the Northern Oasis and Southside areas of town. In the present day, the city walls are mostly vestigial -- while it would be possible in theory to close the gates into town, this hasn't ever been done, and in day-to-day life, the people living in and around Aria can move freely between the walled and unwalled portions of the city. The Evereskan Embassy is an exception to this.
 
 <div class='pageNumber'>1</div>
+</div>
+\page
+
+1. __The Governor's Palace__: A large, if austere adobe structure that serves as the seat of the local government. The current governor, D'jala (also occasionally written in Common as Dajala, depending on conversion scheme used) lives here along with a small number of attendant staff. In addition to having a residential wing that contains apartments for D'jala and her trusted staff, the building hosts offices, an auditorium, an amphitheater, and a small courtyard, complete with a garden hosting desert-friendly plants. At four stories high (and considerably more sprawling), it is among Aria's larger buildings.
+2. __The Evereskan Embassy__: Although not officially called as such, the stark-white mansion hiding behind Aria's internal walls is often cynically referred to as the "Evereskan Embassy". Formally, the stately marble-built palace belongs to House Immeril. While beautiful, it stands apart from most of Aria, a tasteful blend of Bedine and Evereskan architectural styles. Evereskan nobles visiting Aria often stay here, and a few of the city's wealthier elves live in apartments housed inside the structure. Although not all Evereskans in Aria live in the embassy, they are (with a few odd exceptions) generally free to enter it. The Embassy is the only portion of the city to which access is controlled; the one gate leading into the Embassy is manned continuously by Evereskan guards. It is thought that the mansion contains a secret cache of arcane artifacts discovered while mining the Netherese ruins for scrap metal.
+3. __Papyrus District__: The Papyrus district hosts the inner workings of Aria's bureaucracy, containing offices for government officials and the departments they run. Naively, one might expect that a town of 5000 people doesn't generate much need for complicated governance, but the complicated import/export issues particular to Aria's function as an excavation outpost in a desert wasteland create added complexity.
+4. __Bedine Quarter__: Aria's original residential district, the Bedine Quarter contains some of the oldest buildings in town outside of those with an official function. Per its name, this district is mostly populated by Bedine who came from the first tribes to settle in Aria.
+5. __Steel District__:
+6. __Iron District__
+7. __Market District__
+8. __Northern Oasis__
+9. __The Blood Fields__
+10. __Southside__
+11. __Far Southside__
+
+
+<div class='pageNumber'>2</div>
 </div>
 \page
 ## Outstanding Questions/FAQ
@@ -47,7 +64,7 @@ More details coming soon about what those things on the map actually __are__ :)
   * 10% regular visitors (merchants from Evereska or traders from nearby tribes)
   * 10% transient (long-term caravans and others passing through)
 
-<div class='pageNumber'>2</div>
+<div class='pageNumber'>3</div>
 </div>
 \page
 
@@ -59,4 +76,4 @@ More details coming soon about what those things on the map actually __are__ :)
   * Elvish is used by Evereskans to communicate with one another. At first, Elvish was relatively uncommon in Aria and used by elves to communicate without being understood by the locals. As time has gone by, enough of the local population has picked up some Elvish that the Evereskans no longer assume they won't be understood when speaking their native tongue. In general, Evereskan elves (especially those who have been assigned to Aria) are educated and generally fluent in (at least) Elvish, Common, Uloushinn, and Netherese. It's not uncommon for locals to speak Elvish, although elves will generally prefer to use Common unless speaking with each other.
   * Netherese is officially a dead language. The Bedine have no great love for their former oppressors, and Netherese is banned from official use by D'Jala's government. Older Bedine and D'Tarig nomads who have settle in town generally speak the language to some extent, though they are often reluctant to use it. The proximity of Evereska to historical Netheril means that many of the region's elves (particularly older ones) speak Netherese. Younger Evereskans generally learn the language in school, given its influence over other dialects in the region, although they rarely, if ever speak it.
   * The archaeological interest of the region means that Aria has a fairly high density of people with an above-average knowledge of history and arcana. As a result, there's at least _someone_ in town who speaks almost any language one can imagine. However, if it isn't one of the languages mentioned above, you'll have to go out of your way to find them.
-<div class='pageNumber'>3</div>
+<div class='pageNumber'>4</div>
