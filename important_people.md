@@ -4,7 +4,7 @@ Aria is a land of fortune-seekers and outsized egos. Compared to an average town
 
 ## Desai Dajala
 
-### Race: Human
+### Race: Human (Bedine)
 ### Class: Bard
 ### Affiliation: Bedine
 
@@ -42,8 +42,11 @@ A young Tiefling woman known as the "Southside Succubus". Her origins are unknow
 
 ## Geth Brightwood
 
-### Race: Human
+### Race: Human (Illuskan)
 ### Class: Fighter (Battle Master)
 ### Affiliation: Zhentarim
 
 Geth Brightwood is a Zhentarim captain and the highest-ranking Zhentarim officer in Aria. He commands the garrison and is responsible for its day-to-day operations, although his authority is at the discretion of House Immeril (and most directly, Elohim Immeril).
+
+<div class='pageNumber'>2</div>
+</div>
