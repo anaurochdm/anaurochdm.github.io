@@ -43,13 +43,10 @@ Aria was originally constructed as a small, walled desert outpost, with addition
 \page
 ## Outstanding Questions/FAQ
 
-* How is food and water distributed? (I'm still thinking this through)
-  * Independent merchants?
-  * Distribution centers?
-  * Official markets?
-  * Zhentarim?
-  * Centralized vs. dispersed
-  * Are all the locations for these resources inside the walled areas?
+* How is food and water distributed?
+	* In general, water is sold to approved wholesale merchants, who in turn sell the water to Aria's thirsty masses. Evereska vets and approves these merchants and, as described above, uses this particular economic channel as leverage against the local government. Most of these merchants operate out of the Market District, but there are a few scattered water sellers on the outskirts of the city whose operations are tolerated by the Evereskans for one reason or another.
+	* It's worth noting that while the Evereska-sponsored vendors are the primary means of getting water in Aria, they aren't the only one. Particularly in the Far Southside, it's not uncommon to encounter merchants selling water-laden cacti and other desert plants. Furthermore, other water suppliers from Cormyr have occasionally tried to establish a water-selling operation in Aria, but the expenses involved make this difficult compared to Evereska, who utilize their already-hired mercenary guard (the Zhentarim) to protect their caravans. Other would-be water suppliers don't get such benefits without paying handomsely for them.
+	* Food is also rare, but less so - in the grand, natural order of things, food is less precious than water, however slightly. A great deal of food is also shipped in from Evereska and sold by local merchants; Evereska is also the main food supplier for the reasons mentioned above. However, food (particularly dried fruits and salted meats) is more easily transported than water, and local hunters provide a smaller but not-insignificant alternative to foods shipped in from Evereska.
 * How accessible is the inner portion?
   * The inner portion is broadly accessible and isn't really restricted in any way. It was initially constructed to serve as a defense against the myriad of Anauroch's outside threats, and was never fully intended to control the flow of people within the city. The towers are staffed by Zhentarim lookouts, and in principle, the gates into the walled portion could be sealed, creating a true barrier, but so far this hasn't happened. Aria grew organically around the walled portion and people mostly just work around it, at least for now.
 * What is the situation with slavery?
