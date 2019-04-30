@@ -14,6 +14,10 @@ Corroborating this theory, it is well-known that Dajala has good relations with 
 
 Dajala carefully balances her forward thinking ways with a respect for Bedine traditions. She doesn't do this cynically; she does see genuine value in _some_ aspects of Bedine tradition and practices these things in her daily life. She also begrudgingly abides by other traditions she realizes will be slow to change - for example, she still wears a veil (or at least covers her hair) in public, particularly in the company of men. Her public respect for Bedine culture has helped her retain the support of skeptical tribal elders who feel otherwise cornered in an ever more modern Aria.
 
+<div class='pageNumber'>1</div>
+</div>
+\page
+
 ## Elihas Immeril
 
 ### Race: Sun Elf
@@ -21,10 +25,6 @@ Dajala carefully balances her forward thinking ways with a respect for Bedine tr
 ### Affiliation: Evereksa
 
 Although he resides back in Evereska, a list of people important to Aria's brief history could not omit Elihas Immeril, the _de-facto_ head of House Immeril and founder of Aria. Elihas's mother, Ielenia Immeril, is nearly 900 years old, pushing the limits of even elven longevity. In her senility, Elihas has stepped up to run family affairs. In his younger days, he spurned his familial duties and became an adventurer, spending his best years exploring the Anauroch desert. The wonders he saw during this time ultimately inspired him to found Aria. Although he possessed an affinity for magic shared by many high elves, Elihas was always headstrong and lacked the patience for the years of careful study demanded by wizardry. Instead, Elihas was intuitive caster, manipulating the Weave by virtue of his tremendous persona. His preference for sorcery over wizardry made him somewhat of an anomaly in local mystical circles, and he never fully integrated himself into this area of elven society. Although his spellcasting abilities have atrophied in recent years, he utilizes his familiarity with the arcane daily in his management of Arian affairs. Although he is not able to devote all of his time to this task, Aria is his pet project and he tries to stay involved from afar.
-
-<div class='pageNumber'>1</div>
-</div>
-\page
 
 ## Elohim Immeril
 
