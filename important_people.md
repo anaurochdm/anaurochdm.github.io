@@ -32,7 +32,7 @@ Although he resides back in Evereska, a list of people important to Aria's brief
 ### Class: Fighter (Eldritch Knight)
 ### Affiliation: Evereska
 
-The younger brother of Elihas Immeril. Unlike his elder brother, he never grew out of his taste of adventuring, and after a successful career in the Swords of Evereska, Elohim joined the Cold Hand, an elite Evereskan military unit reporting directly to High Lord Duirsar. As a favor to Elihas, the High Lord gave Elohim a leave of absence to set up a post in Aria. Along with a small contingent of elven soldiers directly loyal to the House of Immeril, Elohim was sent to Aria to supervise the Zhentarim hired by House Immeril to keep order in the city. He is formally the highest ranking military officer residing in Aria.
+The younger brother of Elihas Immeril. Unlike his elder brother, he never grew out of his wanderlust, and after a successful career in the Swords of Evereska, Elohim joined the Cold Hand, an elite Evereskan military unit reporting directly to High Lord Duirsar. As a favor to Elihas, the High Lord gave Elohim a leave of absence to set up a post in Aria. Along with a small contingent of elven soldiers directly loyal to the House of Immeril, Elohim was sent to Aria to supervise the Zhentarim hired by House Immeril to keep order in the city. He is formally the highest ranking military officer residing in Aria.
 
 ## Hope
 
